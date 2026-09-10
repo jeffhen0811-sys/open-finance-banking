@@ -1,0 +1,9 @@
+{
+  "cursor_first": {
+    "results": [{"id": "first"}],
+    "next": "?accountId=account-bank&after=cursor-2"
+  },
+  "cursor_last": {"results": [{"id": "second"}], "next": null},
+  "page_first": {"page": 1, "totalPages": 2, "results": [{"id": "first"}]},
+  "page_last": {"page": 2, "totalPages": 2, "results": [{"id": "second"}]}
+}

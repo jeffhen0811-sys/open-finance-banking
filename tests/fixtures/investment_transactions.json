@@ -1,0 +1,21 @@
+[
+  {
+    "id": "movement-buy",
+    "investmentId": "investment-fund",
+    "type": "BUY",
+    "date": "2026-09-07T11:00:00Z",
+    "tradeDate": "2026-09-08T11:00:00Z",
+    "description": "Monthly contribution",
+    "amount": 100,
+    "netAmount": 100,
+    "quantity": 1,
+    "value": 100
+  },
+  {
+    "id": "movement-old",
+    "investmentId": "investment-fund",
+    "type": "BUY",
+    "date": "2025-01-01T11:00:00Z",
+    "amount": 50
+  }
+]

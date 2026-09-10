@@ -1,0 +1,29 @@
+{
+  "account-bank": [
+    {
+      "id": "transaction-income",
+      "accountId": "account-bank",
+      "date": "2026-09-08T10:00:00Z",
+      "description": "Salary",
+      "amount": 2500,
+      "currencyCode": "BRL",
+      "type": "CREDIT",
+      "status": "POSTED",
+      "category": "Income"
+    }
+  ],
+  "account-card": [
+    {
+      "id": "transaction-card",
+      "accountId": "account-card",
+      "date": "2026-09-09T09:00:00Z",
+      "description": "Coffee shop",
+      "amount": 18.5,
+      "currencyCode": "BRL",
+      "type": "DEBIT",
+      "status": "PENDING",
+      "category": "Food",
+      "creditCardMetadata": {"installmentNumber": 1, "totalInstallments": 1}
+    }
+  ]
+}

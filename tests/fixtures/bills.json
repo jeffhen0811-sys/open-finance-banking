@@ -1,0 +1,14 @@
+[
+  {
+    "id": "bill-current",
+    "accountId": "account-card",
+    "dueDate": "2026-09-20",
+    "closeDate": "2026-09-12",
+    "totalAmount": 325.75,
+    "minimumPaymentAmount": 50,
+    "paidAmount": 0,
+    "status": "OPEN",
+    "currencyCode": "BRL",
+    "updatedAt": "2026-09-08T12:00:00Z"
+  }
+]

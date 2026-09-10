@@ -1,0 +1,14 @@
+[
+  {
+    "id": "item-bank",
+    "status": "UPDATED",
+    "lastSuccessfulUpdateAt": "2026-09-08T12:00:00Z",
+    "connector": {"id": 101, "name": "Example Bank"}
+  },
+  {
+    "id": "item-invest",
+    "status": "UPDATED",
+    "lastSuccessfulUpdateAt": "2026-09-08T13:00:00Z",
+    "connector": {"id": 202, "name": "Example Investments"}
+  }
+]

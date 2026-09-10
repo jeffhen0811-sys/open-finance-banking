@@ -1,0 +1,5 @@
+{
+  "unauthorized": {"status": 401, "message": "Unauthorized"},
+  "rate_limited": {"status": 429, "message": "Too many requests"},
+  "provider_error": {"status": 503, "message": "Unavailable"}
+}
