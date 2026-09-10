@@ -1,0 +1,23 @@
+[
+  {
+    "id": "account-bank",
+    "itemId": "item-bank",
+    "type": "BANK",
+    "subtype": "CHECKING_ACCOUNT",
+    "name": "Everyday account",
+    "currencyCode": "BRL",
+    "balance": 1200.5,
+    "updatedAt": "2026-09-08T12:00:00Z"
+  },
+  {
+    "id": "account-card",
+    "itemId": "item-bank",
+    "type": "CREDIT",
+    "subtype": "CREDIT_CARD",
+    "name": "Main card",
+    "currencyCode": "BRL",
+    "balance": 325.75,
+    "creditData": {"creditLimit": 5000, "availableCreditLimit": 4674.25},
+    "updatedAt": "2026-09-08T12:00:00Z"
+  }
+]

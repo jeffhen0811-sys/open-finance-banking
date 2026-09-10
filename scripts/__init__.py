@@ -1,2 +1,3 @@
-# Skill Open Finance Bancário
-# Integração com API Pluggy via Open Finance Brasil
+"""Internal implementation for the pluggy-finance command."""
+
+__all__: list[str] = []

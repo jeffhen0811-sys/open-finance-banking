@@ -1,0 +1,19 @@
+[
+  {
+    "id": "investment-fund",
+    "itemId": "item-invest",
+    "providerId": "provider-investment-1",
+    "type": "MUTUAL_FUND",
+    "subtype": "FIXED_INCOME",
+    "name": "Example fund",
+    "currencyCode": "BRL",
+    "balance": 1025,
+    "amount": 1000,
+    "profit": 25,
+    "withdrawalAmount": 1010,
+    "status": "ACTIVE",
+    "date": "2026-01-02",
+    "dueDate": null,
+    "updatedAt": "2026-09-08T13:00:00Z"
+  }
+]

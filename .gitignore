@@ -1,18 +1,36 @@
-# Credenciais
+# Secrets and local environment
 .env
 .env.*
+!.env.example
 
-# Dados locais (criado em runtime pela storage.py)
+# Local agent and analysis tooling
+.codex/
+graphify-out/
+
+# Local financial data and exports
 data/
 
-# Python
+# Python bytecode, packages, and environments
 __pycache__/
 *.py[cod]
 *.egg-info/
+*.egg
+.eggs/
 dist/
 build/
 .venv/
 venv/
+
+# Test, coverage, and type-checker artifacts
+.pytest_cache/
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.nox/
 
 # IDE
 .vscode/
